@@ -1,0 +1,1173 @@
+[
+  {
+    "question": "what was the operating margin for 2012?",
+    "gold_ids": [
+      "APD/2014/page_39.pdf::table_2",
+      "APD/2014/page_39.pdf::table_1"
+    ],
+    "retrieved_ids": [
+      "APD/2013/page_40.pdf::text_2",
+      "APD/2014/page_39.pdf::text_35",
+      "LMT/2016/page_48.pdf::table_3"
+    ],
+    "found_at_rank": null,
+    "top_score": 13.515104085233572,
+    "status": "cited"
+  },
+  {
+    "question": "for the mtn deal , what was the total post closing adjustments , in millions?",
+    "gold_ids": [
+      "AMT/2012/page_125.pdf::text_9",
+      "AMT/2012/page_125.pdf::text_8"
+    ],
+    "retrieved_ids": [
+      "AMT/2012/page_125.pdf::text_9",
+      "AMT/2012/page_125.pdf::text_8",
+      "AMT/2012/page_125.pdf::text_7"
+    ],
+    "found_at_rank": 1,
+    "top_score": 24.932022257538037,
+    "status": "cited"
+  },
+  {
+    "question": "what is the number of shares outstanding based on the cash dividends paid during 2006 , in millions?",
+    "gold_ids": [
+      "BLL/2007/page_47.pdf::text_24",
+      "BLL/2007/page_47.pdf::text_23"
+    ],
+    "retrieved_ids": [
+      "UNP/2011/page_21.pdf::text_3",
+      "BLL/2007/page_47.pdf::text_23",
+      "HOLX/2012/page_113.pdf::text_14"
+    ],
+    "found_at_rank": 2,
+    "top_score": 21.083867715535497,
+    "status": "cited"
+  },
+  {
+    "question": "what percentage of long-term debt is due after 2021?",
+    "gold_ids": [
+      "NKE/2016/page_37.pdf::table_1",
+      "NKE/2016/page_37.pdf::table_3"
+    ],
+    "retrieved_ids": [
+      "HII/2017/page_47.pdf::text_3",
+      "NKE/2016/page_37.pdf::text_50",
+      "AAPL/2014/page_38.pdf::table_3"
+    ],
+    "found_at_rank": null,
+    "top_score": 18.514739260418136,
+    "status": "cited"
+  },
+  {
+    "question": "what was the average weighted average common shares outstanding for diluted computations from 2015 to 2017",
+    "gold_ids": [
+      "LMT/2017/page_80.pdf::table_3"
+    ],
+    "retrieved_ids": [
+      "LMT/2017/page_80.pdf::table_3",
+      "LMT/2017/page_80.pdf::table_1",
+      "LMT/2017/page_80.pdf::text_27"
+    ],
+    "found_at_rank": 1,
+    "top_score": 46.48184035844973,
+    "status": "cited"
+  },
+  {
+    "question": "what is the cash flow statement effect of the change in cash used for working capital from 2013 to 2014?",
+    "gold_ids": [
+      "IPG/2015/page_37.pdf::table_2"
+    ],
+    "retrieved_ids": [
+      "IPG/2015/page_37.pdf::text_4",
+      "IPG/2015/page_37.pdf::text_8",
+      "AAPL/2014/page_38.pdf::table_4"
+    ],
+    "found_at_rank": null,
+    "top_score": 25.4075689458566,
+    "status": "cited"
+  },
+  {
+    "question": "what were total heavy fuel oil sales in tbd for the three year period?",
+    "gold_ids": [
+      "MRO/2004/page_36.pdf::table_5"
+    ],
+    "retrieved_ids": [
+      "MRO/2004/page_36.pdf::table_5",
+      "RSG/2016/page_144.pdf::text_3",
+      "OKE/2008/page_86.pdf::text_1"
+    ],
+    "found_at_rank": 1,
+    "top_score": 23.19481165822181,
+    "status": "cited"
+  },
+  {
+    "question": "what was the percent of the impairment charges to the net revenue in 2013",
+    "gold_ids": [
+      "INTC/2013/page_33.pdf::text_11",
+      "INTC/2013/page_33.pdf::text_24",
+      "INTC/2013/page_33.pdf::table_1"
+    ],
+    "retrieved_ids": [
+      "ZBH/2003/page_40.pdf::text_3",
+      "GIS/2012/page_64.pdf::text_13",
+      "JPM/2007/page_33.pdf::table_11"
+    ],
+    "found_at_rank": null,
+    "top_score": 20.330175415274507,
+    "status": "cited"
+  },
+  {
+    "question": "what the percentage increase defined contribution plans for foreign countries and contribution from 2007 to 2008",
+    "gold_ids": [
+      "IPG/2009/page_85.pdf::text_16"
+    ],
+    "retrieved_ids": [
+      "IPG/2009/page_85.pdf::text_16",
+      "IPG/2009/page_85.pdf::text_11",
+      "BLL/2007/page_47.pdf::text_7"
+    ],
+    "found_at_rank": 1,
+    "top_score": 35.962302987966154,
+    "status": "cited"
+  },
+  {
+    "question": "what was the return on total assets during 2013?",
+    "gold_ids": [
+      "HII/2017/page_47.pdf::table_5",
+      "HII/2017/page_47.pdf::table_4"
+    ],
+    "retrieved_ids": [
+      "RSG/2017/page_138.pdf::text_6",
+      "C/2017/page_328.pdf::text_0",
+      "PNC/2011/page_78.pdf::table_2"
+    ],
+    "found_at_rank": null,
+    "top_score": 17.53495386915854,
+    "status": "cited"
+  },
+  {
+    "question": "for all of 2011 , approximately how much was spent on stock repurchases?",
+    "gold_ids": [
+      "UNP/2011/page_21.pdf::text_2"
+    ],
+    "retrieved_ids": [
+      "VTR/2007/page_47.pdf::text_10",
+      "VTR/2007/page_47.pdf::text_11",
+      "UNP/2011/page_21.pdf::text_1"
+    ],
+    "found_at_rank": null,
+    "top_score": 14.32157443979618,
+    "status": "cited"
+  },
+  {
+    "question": "considering the year 2018 , what is the cash flow result?",
+    "gold_ids": [
+      "APD/2019/page_48.pdf::table_1",
+      "APD/2019/page_48.pdf::table_3",
+      "APD/2019/page_48.pdf::table_2"
+    ],
+    "retrieved_ids": [
+      "HII/2017/page_47.pdf::table_9",
+      "UNP/2008/page_79.pdf::text_0",
+      "HII/2017/page_47.pdf::table_8"
+    ],
+    "found_at_rank": null,
+    "top_score": 16.72463379322078,
+    "status": "cited"
+  },
+  {
+    "question": "what is the applied 2019s net sales in 2018 , ( in billions ) ?",
+    "gold_ids": [
+      "AMAT/2013/page_18.pdf::text_18"
+    ],
+    "retrieved_ids": [
+      "AMAT/2013/page_18.pdf::text_19",
+      "AMAT/2014/page_18.pdf::text_19",
+      "AMAT/2014/page_18.pdf::text_18"
+    ],
+    "found_at_rank": null,
+    "top_score": 13.481247883006954,
+    "status": "cited"
+  },
+  {
+    "question": "what portion of the total notes payable comes from u.s . commercial paper?",
+    "gold_ids": [
+      "GIS/2012/page_64.pdf::table_3",
+      "GIS/2012/page_64.pdf::table_1"
+    ],
+    "retrieved_ids": [
+      "NKE/2016/page_37.pdf::text_29",
+      "GIS/2012/page_64.pdf::table_1",
+      "NKE/2016/page_37.pdf::text_39"
+    ],
+    "found_at_rank": 2,
+    "top_score": 21.454153028197602,
+    "status": "cited"
+  },
+  {
+    "question": "what was the percentage change in investment banking fees from 2006 to 2007?",
+    "gold_ids": [
+      "JPM/2007/page_33.pdf::table_1"
+    ],
+    "retrieved_ids": [
+      "JPM/2007/page_33.pdf::table_1",
+      "JPM/2007/page_33.pdf::text_8",
+      "JPM/2007/page_33.pdf::text_6"
+    ],
+    "found_at_rank": 1,
+    "top_score": 27.373797188786927,
+    "status": "cited"
+  },
+  {
+    "question": "what is the percentage change in the weighted-average discount rate for u.s . pension plans from 2014 to 2015?",
+    "gold_ids": [
+      "PM/2015/page_38.pdf::table_1"
+    ],
+    "retrieved_ids": [
+      "PM/2015/page_38.pdf::table_1",
+      "PM/2015/page_38.pdf::table_2",
+      "PM/2015/page_38.pdf::text_35"
+    ],
+    "found_at_rank": 1,
+    "top_score": 29.327341196855727,
+    "status": "cited"
+  },
+  {
+    "question": "what was the percentage growth from 2013 to 2014 in the total accounts payable and other current liabilities",
+    "gold_ids": [
+      "UNP/2014/page_75.pdf::table_9"
+    ],
+    "retrieved_ids": [
+      "UNP/2014/page_75.pdf::text_23",
+      "UNP/2014/page_75.pdf::table_9",
+      "IPG/2015/page_37.pdf::text_2"
+    ],
+    "found_at_rank": 2,
+    "top_score": 27.896113387528224,
+    "status": "cited"
+  },
+  {
+    "question": "considering the years 2014-2016 , what is the lowest interest incurred observed?",
+    "gold_ids": [
+      "APD/2016/page_39.pdf::table_1"
+    ],
+    "retrieved_ids": [
+      "APD/2016/page_39.pdf::table_1",
+      "APD/2016/page_39.pdf::table_3",
+      "APD/2016/page_39.pdf::table_2"
+    ],
+    "found_at_rank": 1,
+    "top_score": 22.7674529152475,
+    "status": "cited"
+  },
+  {
+    "question": "what was the percentage cumulative total return for the five year period ended 31-dec-2017 of citi common stock?",
+    "gold_ids": [
+      "C/2017/page_328.pdf::table_6",
+      "C/2017/page_328.pdf::table_1"
+    ],
+    "retrieved_ids": [
+      "C/2017/page_328.pdf::text_0",
+      "C/2017/page_328.pdf::text_2",
+      "TSCO/2018/page_34.pdf::text_1"
+    ],
+    "found_at_rank": null,
+    "top_score": 41.31267861353754,
+    "status": "cited"
+  },
+  {
+    "question": "what was the difference in operating profit for the americas as a percentage of net sales between 2001 and 2003?",
+    "gold_ids": [
+      "ZBH/2003/page_40.pdf::table_1"
+    ],
+    "retrieved_ids": [
+      "ZBH/2003/page_40.pdf::text_4",
+      "ZBH/2003/page_40.pdf::text_8",
+      "ZBH/2003/page_40.pdf::text_25"
+    ],
+    "found_at_rank": null,
+    "top_score": 33.88295394205112,
+    "status": "cited"
+  },
+  {
+    "question": "what was the average change in unrealized gains on derivative instruments?",
+    "gold_ids": [
+      "AAPL/2008/page_78.pdf::table_3"
+    ],
+    "retrieved_ids": [
+      "AAPL/2008/page_78.pdf::table_3",
+      "OKE/2008/page_86.pdf::text_12",
+      "GIS/2012/page_64.pdf::text_5"
+    ],
+    "found_at_rank": 1,
+    "top_score": 28.899238952033514,
+    "status": "cited"
+  },
+  {
+    "question": "what is the percent change in annual long-term debt maturities from 2016 to 2017?",
+    "gold_ids": [
+      "ETR/2015/page_131.pdf::text_4",
+      "ETR/2015/page_131.pdf::table_2",
+      "ETR/2015/page_131.pdf::table_1"
+    ],
+    "retrieved_ids": [
+      "ETR/2015/page_131.pdf::text_8",
+      "HII/2017/page_47.pdf::text_3",
+      "AAPL/2014/page_38.pdf::table_3"
+    ],
+    "found_at_rank": null,
+    "top_score": 23.797002328190008,
+    "status": "cited"
+  },
+  {
+    "question": "what are the total contractual commitments , in millions?",
+    "gold_ids": [
+      "ABMD/2009/page_56.pdf::table_3"
+    ],
+    "retrieved_ids": [
+      "ABMD/2009/page_56.pdf::text_11",
+      "BLK/2017/page_122.pdf::text_28",
+      "NKE/2016/page_37.pdf::text_49"
+    ],
+    "found_at_rank": null,
+    "top_score": 13.828063378557712,
+    "status": "cited"
+  },
+  {
+    "question": "what is the percent change in quarterly cash dividend for the period ended march 31 2002 to the period ended march 31 2003?",
+    "gold_ids": [
+      "DRE/2002/page_40.pdf::table_4",
+      "DRE/2002/page_40.pdf::text_3"
+    ],
+    "retrieved_ids": [
+      "ABMD/2004/page_26.pdf::text_27",
+      "DRE/2002/page_40.pdf::table_4",
+      "AMT/2008/page_32.pdf::table_6"
+    ],
+    "found_at_rank": 2,
+    "top_score": 35.95547443924148,
+    "status": "cited"
+  },
+  {
+    "question": "between december 31 , 2011 and december 31 , 2010 , what was the change in the unpaid principal balance outstanding of loans sold as a participant in these programs in billions?",
+    "gold_ids": [
+      "PNC/2011/page_78.pdf::text_13"
+    ],
+    "retrieved_ids": [
+      "PNC/2011/page_78.pdf::text_13",
+      "PNC/2011/page_78.pdf::text_16",
+      "ETR/2011/page_324.pdf::text_6"
+    ],
+    "found_at_rank": 1,
+    "top_score": 64.82726800185326,
+    "status": "cited"
+  },
+  {
+    "question": "what is the growth rate in the number of stores during 2011?",
+    "gold_ids": [
+      "AAP/2012/page_12.pdf::table_4"
+    ],
+    "retrieved_ids": [
+      "AAP/2012/page_12.pdf::text_0",
+      "AAP/2012/page_12.pdf::table_1",
+      "AAP/2012/page_12.pdf::table_4"
+    ],
+    "found_at_rank": 3,
+    "top_score": 21.55458100647558,
+    "status": "cited"
+  },
+  {
+    "question": "what was the change in millions of operating income from 2016 to 2017?",
+    "gold_ids": [
+      "PM/2017/page_38.pdf::table_3"
+    ],
+    "retrieved_ids": [
+      "LMT/2017/page_80.pdf::text_4",
+      "AAPL/2014/page_38.pdf::text_13",
+      "AAPL/2014/page_38.pdf::text_10"
+    ],
+    "found_at_rank": null,
+    "top_score": 16.28325989014425,
+    "status": "cited"
+  },
+  {
+    "question": "in 2013 what was the percentage of the sites closed down",
+    "gold_ids": [
+      "UNP/2013/page_44.pdf::table_3",
+      "UNP/2013/page_44.pdf::table_4"
+    ],
+    "retrieved_ids": [
+      "UNP/2013/page_44.pdf::table_3",
+      "UNP/2013/page_44.pdf::table_2",
+      "UNP/2013/page_44.pdf::table_1"
+    ],
+    "found_at_rank": 1,
+    "top_score": 22.01070010092844,
+    "status": "cited"
+  },
+  {
+    "question": "what percent of the change between net revenue in 2007 and 2008 was due to rider revenue?",
+    "gold_ids": [
+      "ETR/2008/page_355.pdf::table_4",
+      "ETR/2008/page_355.pdf::table_1",
+      "ETR/2008/page_355.pdf::table_7"
+    ],
+    "retrieved_ids": [
+      "ETR/2008/page_355.pdf::text_2",
+      "ETR/2008/page_355.pdf::text_9",
+      "ETR/2008/page_355.pdf::table_4"
+    ],
+    "found_at_rank": 3,
+    "top_score": 29.042975523694643,
+    "status": "cited"
+  },
+  {
+    "question": "in 2008 what was the percent of the total gaap stockholders 2019 equity and aggregate statutory capital associated with life operations",
+    "gold_ids": [
+      "HIG/2008/page_318.pdf::table_1",
+      "HIG/2008/page_318.pdf::table_4"
+    ],
+    "retrieved_ids": [
+      "HIG/2008/page_318.pdf::text_15",
+      "HIG/2008/page_318.pdf::text_11",
+      "HIG/2008/page_318.pdf::text_13"
+    ],
+    "found_at_rank": null,
+    "top_score": 39.11910396525988,
+    "status": "cited"
+  },
+  {
+    "question": "how much of the securitizations that hold asf framework loans were issued by third parties?",
+    "gold_ids": [
+      "JPM/2007/page_147.pdf::table_1",
+      "JPM/2007/page_147.pdf::table_3"
+    ],
+    "retrieved_ids": [
+      "JPM/2007/page_147.pdf::text_19",
+      "JPM/2007/page_147.pdf::text_15",
+      "JPM/2007/page_147.pdf::text_6"
+    ],
+    "found_at_rank": null,
+    "top_score": 38.148118688793396,
+    "status": "cited"
+  },
+  {
+    "question": "from the data given , how many square feet have an expiry date in 2020?",
+    "gold_ids": [
+      "AON/2010/page_28.pdf::table_2",
+      "AON/2010/page_28.pdf::table_3"
+    ],
+    "retrieved_ids": [
+      "AON/2010/page_28.pdf::text_21",
+      "AON/2010/page_28.pdf::text_19",
+      "BLK/2017/page_122.pdf::text_29"
+    ],
+    "found_at_rank": null,
+    "top_score": 16.38575033077997,
+    "status": "cited"
+  },
+  {
+    "question": "what was the ratio of the gallons hedged in 2017 to 2018",
+    "gold_ids": [
+      "RSG/2016/page_144.pdf::table_1",
+      "RSG/2016/page_144.pdf::table_2"
+    ],
+    "retrieved_ids": [
+      "RSG/2016/page_144.pdf::table_2",
+      "RSG/2016/page_144.pdf::table_1",
+      "SYY/2019/page_9.pdf::table_4"
+    ],
+    "found_at_rank": 1,
+    "top_score": 24.602245089923944,
+    "status": "cited"
+  },
+  {
+    "question": "what was the percentage growth of the stock price performance from 2013 to 2014 for the tractor supply company",
+    "gold_ids": [
+      "TSCO/2018/page_34.pdf::table_1"
+    ],
+    "retrieved_ids": [
+      "TSCO/2018/page_34.pdf::text_0",
+      "TSCO/2018/page_34.pdf::table_1",
+      "TSCO/2018/page_34.pdf::text_3"
+    ],
+    "found_at_rank": 2,
+    "top_score": 24.297680607395886,
+    "status": "cited"
+  },
+  {
+    "question": "what was the change in amount of long term debt between 2014 and 2012?",
+    "gold_ids": [
+      "AAPL/2014/page_38.pdf::table_3"
+    ],
+    "retrieved_ids": [
+      "AAPL/2014/page_38.pdf::table_3",
+      "ETR/2015/page_131.pdf::text_8",
+      "HII/2017/page_47.pdf::text_3"
+    ],
+    "found_at_rank": 1,
+    "top_score": 23.23307175638397,
+    "status": "cited"
+  },
+  {
+    "question": "for the quarter ended march 312008 what was the percent of the change from the highest to the lowest of the company per share sale prices of common stock",
+    "gold_ids": [
+      "AMT/2008/page_32.pdf::table_1"
+    ],
+    "retrieved_ids": [
+      "DRE/2002/page_40.pdf::text_1",
+      "AMT/2008/page_32.pdf::text_1",
+      "VTR/2007/page_47.pdf::text_10"
+    ],
+    "found_at_rank": null,
+    "top_score": 41.31619980551068,
+    "status": "cited"
+  },
+  {
+    "question": "what portion of total assets acquired is composed of goodwill?",
+    "gold_ids": [
+      "GPN/2009/page_70.pdf::table_6",
+      "GPN/2009/page_70.pdf::table_1"
+    ],
+    "retrieved_ids": [
+      "GPN/2009/page_70.pdf::table_6",
+      "GPN/2009/page_70.pdf::table_9",
+      "GPN/2009/page_70.pdf::table_1"
+    ],
+    "found_at_rank": 1,
+    "top_score": 21.138708616883672,
+    "status": "cited"
+  },
+  {
+    "question": "what percent of the commitments will be due after 2022?",
+    "gold_ids": [
+      "BLK/2017/page_122.pdf::table_5",
+      "BLK/2017/page_122.pdf::table_7",
+      "BLK/2017/page_122.pdf::table_6",
+      "BLK/2017/page_122.pdf::text_28"
+    ],
+    "retrieved_ids": [
+      "ABMD/2009/page_56.pdf::text_26",
+      "HII/2017/page_124.pdf::text_11",
+      "ETR/2004/page_213.pdf::text_3"
+    ],
+    "found_at_rank": null,
+    "top_score": 13.247311667557582,
+    "status": "cited"
+  },
+  {
+    "question": "what portion of the gen-probe's purchase price is paid in cash?",
+    "gold_ids": [
+      "HOLX/2012/page_113.pdf::table_3"
+    ],
+    "retrieved_ids": [
+      "HOLX/2012/page_113.pdf::text_14",
+      "HOLX/2012/page_113.pdf::text_18",
+      "HOLX/2012/page_113.pdf::text_25"
+    ],
+    "found_at_rank": null,
+    "top_score": 22.844952658229168,
+    "status": "cited"
+  },
+  {
+    "question": "what is the ratio of the total flight attendants to passenger service personnel",
+    "gold_ids": [
+      "AAL/2013/page_15.pdf::table_2",
+      "AAL/2013/page_15.pdf::table_5"
+    ],
+    "retrieved_ids": [
+      "AAL/2013/page_15.pdf::table_5",
+      "AAL/2013/page_15.pdf::table_2",
+      "AAL/2013/page_15.pdf::table_4"
+    ],
+    "found_at_rank": 1,
+    "top_score": 29.354335880488435,
+    "status": "cited"
+  },
+  {
+    "question": "what is the long-term retail/hnw in emea as a percentage of the total long-term retail/hnw?",
+    "gold_ids": [
+      "BLK/2012/page_37.pdf::table_5",
+      "BLK/2012/page_37.pdf::text_0",
+      "BLK/2012/page_37.pdf::text_2"
+    ],
+    "retrieved_ids": [
+      "BLK/2012/page_37.pdf::table_5",
+      "BLK/2012/page_37.pdf::text_0",
+      "BLK/2012/page_37.pdf::text_10"
+    ],
+    "found_at_rank": 1,
+    "top_score": 53.11994460744939,
+    "status": "cited"
+  },
+  {
+    "question": "what is the combined number of equity compensation plans approved by security holders",
+    "gold_ids": [
+      "HII/2017/page_124.pdf::table_3"
+    ],
+    "retrieved_ids": [
+      "HII/2017/page_124.pdf::text_1",
+      "HII/2017/page_124.pdf::table_1",
+      "HII/2017/page_124.pdf::table_2"
+    ],
+    "found_at_rank": null,
+    "top_score": 35.28912852259971,
+    "status": "cited"
+  },
+  {
+    "question": "what is the net change in unrecognized tax benefits during 2007?",
+    "gold_ids": [
+      "FIS/2007/page_91.pdf::table_3",
+      "FIS/2007/page_91.pdf::table_2"
+    ],
+    "retrieved_ids": [
+      "FIS/2007/page_91.pdf::table_1",
+      "FIS/2007/page_91.pdf::text_20",
+      "PM/2017/page_38.pdf::text_18"
+    ],
+    "found_at_rank": null,
+    "top_score": 23.22783724069387,
+    "status": "cited"
+  },
+  {
+    "question": "what was the average effective tax rate for the three year period?",
+    "gold_ids": [
+      "AAPL/2005/page_83.pdf::table_8",
+      "AAPL/2005/page_83.pdf::text_12"
+    ],
+    "retrieved_ids": [
+      "APD/2016/page_39.pdf::text_24",
+      "PM/2017/page_38.pdf::text_12",
+      "ABMD/2004/page_26.pdf::text_1"
+    ],
+    "found_at_rank": null,
+    "top_score": 21.698185201690364,
+    "status": "cited"
+  },
+  {
+    "question": "what was the percentage change in capital expenditures for property , plant and equipment from 2009 to 2010?",
+    "gold_ids": [
+      "LMT/2010/page_42.pdf::text_17"
+    ],
+    "retrieved_ids": [
+      "LMT/2010/page_42.pdf::text_17",
+      "APD/2013/page_40.pdf::text_13",
+      "APD/2013/page_40.pdf::text_10"
+    ],
+    "found_at_rank": 1,
+    "top_score": 31.057671493798775,
+    "status": "cited"
+  },
+  {
+    "question": "what were average operating profit for aeronautics in millions between 2014 and 2016?",
+    "gold_ids": [
+      "LMT/2016/page_48.pdf::table_2"
+    ],
+    "retrieved_ids": [
+      "LMT/2016/page_48.pdf::text_17",
+      "LMT/2016/page_48.pdf::text_13",
+      "LMT/2016/page_48.pdf::table_2"
+    ],
+    "found_at_rank": 3,
+    "top_score": 19.867877534335328,
+    "status": "cited"
+  },
+  {
+    "question": "what is the roi of an investment in s&p500 index from 2006 to january 3 , 2009?",
+    "gold_ids": [
+      "AAP/2011/page_28.pdf::table_2"
+    ],
+    "retrieved_ids": [
+      "AAP/2011/page_28.pdf::table_2",
+      "AAP/2011/page_28.pdf::table_3",
+      "AAP/2011/page_28.pdf::text_3"
+    ],
+    "found_at_rank": 1,
+    "top_score": 23.491564398323856,
+    "status": "cited"
+  },
+  {
+    "question": "what was jpmorgan chase & co's common equity tier 1 ( cet1 ) ratio in 2008?",
+    "gold_ids": [
+      "JPM/2008/page_85.pdf::table_4",
+      "JPM/2008/page_85.pdf::table_1"
+    ],
+    "retrieved_ids": [
+      "JPM/2008/page_85.pdf::text_0",
+      "JPM/2007/page_147.pdf::text_0",
+      "JPM/2007/page_33.pdf::text_0"
+    ],
+    "found_at_rank": null,
+    "top_score": 26.944872433877062,
+    "status": "cited"
+  },
+  {
+    "question": "what was the percent of the increase in compensation cost recognized for rsus from 2008 to 2009",
+    "gold_ids": [
+      "DRE/2009/page_72.pdf::text_1"
+    ],
+    "retrieved_ids": [
+      "DRE/2009/page_72.pdf::text_1",
+      "DRE/2009/page_72.pdf::text_2",
+      "IPG/2009/page_85.pdf::text_19"
+    ],
+    "found_at_rank": 1,
+    "top_score": 27.24570737911007,
+    "status": "cited"
+  },
+  {
+    "question": "what is the expected growth rate in amortization expense from 2016 to 2017?",
+    "gold_ids": [
+      "HOLX/2015/page_98.pdf::table_1"
+    ],
+    "retrieved_ids": [
+      "UNP/2008/page_79.pdf::table_1",
+      "BLK/2017/page_122.pdf::text_33",
+      "APD/2016/page_39.pdf::table_3"
+    ],
+    "found_at_rank": null,
+    "top_score": 14.146106610640919,
+    "status": "cited"
+  },
+  {
+    "question": "what were total operating expenses as a percentage of revenue in 2013?",
+    "gold_ids": [
+      "AAL/2015/page_118.pdf::table_2",
+      "AAL/2015/page_118.pdf::table_1"
+    ],
+    "retrieved_ids": [
+      "AAL/2013/page_15.pdf::text_4",
+      "ZBH/2003/page_40.pdf::text_8",
+      "ZBH/2003/page_40.pdf::text_26"
+    ],
+    "found_at_rank": null,
+    "top_score": 17.850610543704146,
+    "status": "cited"
+  },
+  {
+    "question": "what is the lowest segment operating income?",
+    "gold_ids": [
+      "AON/2009/page_46.pdf::table_2"
+    ],
+    "retrieved_ids": [
+      "AON/2009/page_46.pdf::table_2",
+      "AON/2009/page_46.pdf::table_3",
+      "APD/2014/page_39.pdf::table_2"
+    ],
+    "found_at_rank": 1,
+    "top_score": 15.6104471375857,
+    "status": "cited"
+  },
+  {
+    "question": "what was the total net change in net fair value of derivatives outstanding at between 2007 and 2008 in thousands?",
+    "gold_ids": [
+      "OKE/2008/page_86.pdf::table_1",
+      "OKE/2008/page_86.pdf::table_5"
+    ],
+    "retrieved_ids": [
+      "OKE/2008/page_86.pdf::table_1",
+      "OKE/2008/page_86.pdf::table_5",
+      "AAPL/2008/page_78.pdf::table_1"
+    ],
+    "found_at_rank": 1,
+    "top_score": 39.13891934731512,
+    "status": "cited"
+  },
+  {
+    "question": "at december 31 , 2005 what was the percent of the total commitment applicable to the standby letters of credit",
+    "gold_ids": [
+      "LMT/2005/page_40.pdf::table_1",
+      "LMT/2005/page_40.pdf::table_4"
+    ],
+    "retrieved_ids": [
+      "LMT/2005/page_40.pdf::text_5",
+      "LMT/2005/page_40.pdf::table_1",
+      "NKE/2016/page_37.pdf::table_7"
+    ],
+    "found_at_rank": 2,
+    "top_score": 35.100603685731755,
+    "status": "cited"
+  },
+  {
+    "question": "what percentage of warehouse locations are in north america?",
+    "gold_ids": [
+      "AMAT/2014/page_35.pdf::text_79",
+      "AMAT/2014/page_35.pdf::text_163"
+    ],
+    "retrieved_ids": [
+      "AMAT/2014/page_35.pdf::text_79",
+      "AMAT/2014/page_35.pdf::text_163",
+      "GPN/2009/page_70.pdf::text_9"
+    ],
+    "found_at_rank": 1,
+    "top_score": 16.965624426748562,
+    "status": "cited"
+  },
+  {
+    "question": "what is the difference in millions of international subscribers between discovery channel and animal planet?",
+    "gold_ids": [
+      "DISCA/2012/page_39.pdf::table_1"
+    ],
+    "retrieved_ids": [
+      "DISCA/2012/page_39.pdf::text_3",
+      "DISCA/2012/page_39.pdf::table_1",
+      "DISCA/2012/page_39.pdf::text_7"
+    ],
+    "found_at_rank": 2,
+    "top_score": 40.49194366165181,
+    "status": "cited"
+  },
+  {
+    "question": "for the facility leases that have remaining terms through fiscal 2010 , assuming the annual rent is approximately that of 2003 , what is the remaining total obligation?",
+    "gold_ids": [
+      "ABMD/2004/page_26.pdf::text_27",
+      "ABMD/2004/page_26.pdf::text_24",
+      "ABMD/2004/page_26.pdf::text_22"
+    ],
+    "retrieved_ids": [
+      "ABMD/2004/page_26.pdf::text_22",
+      "ABMD/2004/page_26.pdf::text_24",
+      "ABMD/2009/page_56.pdf::text_26"
+    ],
+    "found_at_rank": 1,
+    "top_score": 30.117246647773847,
+    "status": "cited"
+  },
+  {
+    "question": "what are the total sales reported in 2012 , ( in billion ) ?",
+    "gold_ids": [
+      "AMAT/2014/page_18.pdf::text_18"
+    ],
+    "retrieved_ids": [
+      "ZBH/2003/page_40.pdf::text_3",
+      "UNP/2013/page_54.pdf::text_13",
+      "AMAT/2014/page_18.pdf::text_18"
+    ],
+    "found_at_rank": 3,
+    "top_score": 12.342793176748291,
+    "status": "cited"
+  },
+  {
+    "question": "what percentage of total other assets in 2011 was comprised of goodwill and identifiable intangible assets?",
+    "gold_ids": [
+      "GS/2012/page_165.pdf::table_6",
+      "GS/2012/page_165.pdf::table_2"
+    ],
+    "retrieved_ids": [
+      "GS/2012/page_165.pdf::text_7",
+      "PNC/2013/page_62.pdf::text_28",
+      "PNC/2013/page_62.pdf::text_26"
+    ],
+    "found_at_rank": null,
+    "top_score": 26.64657078329102,
+    "status": "cited"
+  },
+  {
+    "question": "in 2010 what was the ratio of the statutory capital and surplus to the statutory net income",
+    "gold_ids": [
+      "CB/2010/page_200.pdf::table_1",
+      "CB/2010/page_200.pdf::table_2"
+    ],
+    "retrieved_ids": [
+      "CB/2010/page_200.pdf::text_20",
+      "CB/2010/page_200.pdf::text_17",
+      "CB/2010/page_200.pdf::text_13"
+    ],
+    "found_at_rank": null,
+    "top_score": 38.98618252508976,
+    "status": "cited"
+  },
+  {
+    "question": "considering the years 2011-2013 , what is the average capital expenditure on a gaap basis?",
+    "gold_ids": [
+      "APD/2013/page_40.pdf::table_4"
+    ],
+    "retrieved_ids": [
+      "APD/2013/page_40.pdf::table_4",
+      "APD/2013/page_40.pdf::table_7",
+      "APD/2013/page_40.pdf::text_21"
+    ],
+    "found_at_rank": 1,
+    "top_score": 28.38326777538768,
+    "status": "cited"
+  },
+  {
+    "question": "what was the percent of the value of the interest retained by upri from 2007 to 2008 was $ 431 million and $ 471 million , respectively .",
+    "gold_ids": [
+      "UNP/2008/page_79.pdf::text_16"
+    ],
+    "retrieved_ids": [
+      "UNP/2008/page_79.pdf::text_16",
+      "UNP/2008/page_79.pdf::text_15",
+      "UNP/2008/page_79.pdf::text_12"
+    ],
+    "found_at_rank": 1,
+    "top_score": 68.65446425998874,
+    "status": "cited"
+  },
+  {
+    "question": "in 2013 what was the percent of the total operating revenues from mexico",
+    "gold_ids": [
+      "UNP/2013/page_54.pdf::text_13",
+      "UNP/2013/page_54.pdf::table_9"
+    ],
+    "retrieved_ids": [
+      "UNP/2013/page_54.pdf::table_7",
+      "ZBH/2003/page_40.pdf::text_3",
+      "UNP/2013/page_54.pdf::text_13"
+    ],
+    "found_at_rank": 3,
+    "top_score": 18.443776971341023,
+    "status": "cited"
+  },
+  {
+    "question": "what is the difference in payments between entergy arkansas and entergy new orleans , in millions?",
+    "gold_ids": [
+      "ETR/2015/page_109.pdf::table_1",
+      "ETR/2015/page_109.pdf::table_4"
+    ],
+    "retrieved_ids": [
+      "ETR/2015/page_109.pdf::table_4",
+      "ETR/2015/page_109.pdf::table_1",
+      "ETR/2008/page_355.pdf::text_0"
+    ],
+    "found_at_rank": 1,
+    "top_score": 37.3464148921875,
+    "status": "cited"
+  },
+  {
+    "question": "in 2017 what was the debt to equity based on the 2017 actual asset allocation",
+    "gold_ids": [
+      "RSG/2017/page_138.pdf::table_2",
+      "RSG/2017/page_138.pdf::table_1"
+    ],
+    "retrieved_ids": [
+      "RSG/2017/page_138.pdf::text_15",
+      "HII/2017/page_124.pdf::text_0",
+      "JPM/2008/page_85.pdf::text_17"
+    ],
+    "found_at_rank": null,
+    "top_score": 34.02500279265938,
+    "status": "cited"
+  },
+  {
+    "question": "what was the value of the treasury stock as of december 312007",
+    "gold_ids": [
+      "VTR/2007/page_47.pdf::table_3"
+    ],
+    "retrieved_ids": [
+      "MRO/2011/page_73.pdf::text_3",
+      "LMT/2017/page_80.pdf::text_28",
+      "PM/2015/page_38.pdf::text_12"
+    ],
+    "found_at_rank": null,
+    "top_score": 20.949713181528182,
+    "status": "cited"
+  },
+  {
+    "question": "what was the change in the percentage of sales to restaurants from 2018 to 2019?",
+    "gold_ids": [
+      "SYY/2019/page_9.pdf::table_1"
+    ],
+    "retrieved_ids": [
+      "SYY/2019/page_9.pdf::table_1",
+      "ZBH/2003/page_40.pdf::text_8",
+      "SYY/2019/page_9.pdf::table_4"
+    ],
+    "found_at_rank": 1,
+    "top_score": 24.304180111689643,
+    "status": "cited"
+  },
+  {
+    "question": "what are the deferred fuel cost revisions as a percentage of the increase in fuel cost recovery revenues?",
+    "gold_ids": [
+      "ETR/2004/page_213.pdf::text_6",
+      "ETR/2004/page_213.pdf::text_1",
+      "ETR/2004/page_213.pdf::table_2"
+    ],
+    "retrieved_ids": [
+      "ETR/2004/page_213.pdf::table_2",
+      "ETR/2004/page_213.pdf::text_7",
+      "ETR/2004/page_213.pdf::text_3"
+    ],
+    "found_at_rank": 1,
+    "top_score": 43.44621743945112,
+    "status": "cited"
+  },
+  {
+    "question": "what was the change in the annual performance of the jkhy stock from 2009 to 2010",
+    "gold_ids": [
+      "JKHY/2014/page_30.pdf::table_1"
+    ],
+    "retrieved_ids": [
+      "JKHY/2014/page_30.pdf::table_1",
+      "LMT/2010/page_42.pdf::text_31",
+      "ETR/2011/page_324.pdf::table_2"
+    ],
+    "found_at_rank": 1,
+    "top_score": 22.827562498933336,
+    "status": "cited"
+  },
+  {
+    "question": "how much was cost of good sold in 2009?",
+    "gold_ids": [
+      "MRO/2011/page_73.pdf::table_2",
+      "MRO/2011/page_73.pdf::table_1"
+    ],
+    "retrieved_ids": [
+      "PNC/2013/page_62.pdf::text_16",
+      "MRO/2011/page_73.pdf::text_19",
+      "LMT/2017/page_80.pdf::text_9"
+    ],
+    "found_at_rank": null,
+    "top_score": 9.961627027715537,
+    "status": "cited"
+  },
+  {
+    "question": "as of december 312013 what was the percent of the total contractual obligations global headquarters operating leases",
+    "gold_ids": [
+      "ANSS/2013/page_55.pdf::table_1",
+      "ANSS/2013/page_55.pdf::table_6"
+    ],
+    "retrieved_ids": [
+      "ANSS/2013/page_55.pdf::text_0",
+      "PNC/2013/page_62.pdf::table_8",
+      "PNC/2013/page_62.pdf::table_6"
+    ],
+    "found_at_rank": null,
+    "top_score": 25.866350988141438,
+    "status": "cited"
+  },
+  {
+    "question": "in millions what was total residential mortgages balance for 2013 and 2012?",
+    "gold_ids": [
+      "PNC/2013/page_62.pdf::table_6"
+    ],
+    "retrieved_ids": [
+      "PNC/2013/page_62.pdf::table_6",
+      "PNC/2011/page_78.pdf::text_24",
+      "PNC/2013/page_62.pdf::text_19"
+    ],
+    "found_at_rank": 1,
+    "top_score": 16.57082542114408,
+    "status": "cited"
+  },
+  {
+    "question": "in millions in 2014 , 2013 , and 2012 , what was the greatest amount of hedged borrowings and bank deposits?",
+    "gold_ids": [
+      "GS/2014/page_136.pdf::table_2"
+    ],
+    "retrieved_ids": [
+      "GS/2014/page_136.pdf::table_2",
+      "GS/2014/page_136.pdf::text_11",
+      "UNP/2014/page_25.pdf::text_0"
+    ],
+    "found_at_rank": 1,
+    "top_score": 30.52159567132182,
+    "status": "cited"
+  },
+  {
+    "question": "what percentage of total inventories is comprised of finished goods in 2007?",
+    "gold_ids": [
+      "CAG/2008/page_75.pdf::table_3",
+      "CAG/2008/page_75.pdf::table_5"
+    ],
+    "retrieved_ids": [
+      "CAG/2008/page_75.pdf::table_3",
+      "JPM/2007/page_147.pdf::table_3",
+      "CAG/2008/page_75.pdf::text_3"
+    ],
+    "found_at_rank": 1,
+    "top_score": 27.91070575195452,
+    "status": "cited"
+  },
+  {
+    "question": "what was the total five year change in the s&p 500 index?",
+    "gold_ids": [
+      "VNO/2012/page_84.pdf::table_2"
+    ],
+    "retrieved_ids": [
+      "C/2017/page_328.pdf::text_2",
+      "UNP/2011/page_21.pdf::text_0",
+      "C/2017/page_328.pdf::text_0"
+    ],
+    "found_at_rank": null,
+    "top_score": 29.309483869298568,
+    "status": "cited"
+  },
+  {
+    "question": "what was the average price of shares repurchased in 2010?",
+    "gold_ids": [
+      "TROW/2010/page_22.pdf::text_23"
+    ],
+    "retrieved_ids": [
+      "VTR/2007/page_47.pdf::table_2",
+      "VTR/2007/page_47.pdf::table_1",
+      "VTR/2007/page_47.pdf::table_3"
+    ],
+    "found_at_rank": null,
+    "top_score": 21.922796599445807,
+    "status": "cited"
+  },
+  {
+    "question": "what was the percent of minimum total assets available for default that was guaranty fund contributions ( 2 )",
+    "gold_ids": [
+      "CME/2012/page_70.pdf::table_2",
+      "CME/2012/page_70.pdf::table_4"
+    ],
+    "retrieved_ids": [
+      "CME/2012/page_70.pdf::table_4",
+      "CME/2012/page_70.pdf::table_2",
+      "CME/2012/page_70.pdf::text_106"
+    ],
+    "found_at_rank": 1,
+    "top_score": 29.397430331595043,
+    "status": "cited"
+  },
+  {
+    "question": "what will be the yearly interest expense for entergy louisiana for the bond issued in 2012 , ( in millions ) ?",
+    "gold_ids": [
+      "ETR/2011/page_324.pdf::text_10"
+    ],
+    "retrieved_ids": [
+      "ETR/2015/page_109.pdf::table_2",
+      "ETR/2011/page_324.pdf::text_16",
+      "ETR/2011/page_324.pdf::text_24"
+    ],
+    "found_at_rank": null,
+    "top_score": 21.804872181330865,
+    "status": "cited"
+  },
+  {
+    "question": "if overall freight revenues in 2014 grow as the same rate as agricultural arc growth , what would projected 2015 revenues be in millions?",
+    "gold_ids": [
+      "UNP/2014/page_25.pdf::table_1",
+      "UNP/2014/page_25.pdf::text_12"
+    ],
+    "retrieved_ids": [
+      "UNP/2014/page_25.pdf::text_2",
+      "UNP/2014/page_25.pdf::text_5",
+      "UNP/2014/page_25.pdf::text_6"
+    ],
+    "found_at_rank": null,
+    "top_score": 24.789467654122,
+    "status": "cited"
+  },
+  {
+    "question": "what percent of total derivatives are from interest rate contracts in 2013?",
+    "gold_ids": [
+      "K/2013/page_62.pdf::table_4",
+      "K/2013/page_62.pdf::text_5",
+      "K/2013/page_62.pdf::table_2"
+    ],
+    "retrieved_ids": [
+      "K/2013/page_62.pdf::table_2",
+      "GS/2014/page_136.pdf::text_11",
+      "GIS/2012/page_64.pdf::text_18"
+    ],
+    "found_at_rank": 1,
+    "top_score": 18.037179315552795,
+    "status": "cited"
+  }
+]
